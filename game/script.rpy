@@ -209,7 +209,7 @@ label descrip1:
     hide screen doc1
     "(Her birthday was a week ago.)"
     "(She'd be... twenty-five.)"
-    "(
+    "("
 
 
 label bedroom:
